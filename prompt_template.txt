@@ -1,0 +1,8 @@
+Convert the following C code into Promela for SPIN model checking.
+Preserve logical behavior and concurrent constructs. Abstract away unnecessary details.
+
+[C CODE START]
+{code}
+[C CODE END]
+
+Return only valid Promela code.
